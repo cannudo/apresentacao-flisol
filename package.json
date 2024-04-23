@@ -11,6 +11,11 @@
     "@slidev/cli": "^0.48.2",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
+    "slidev-theme-dracula": "^0.2.0",
     "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "@iconify-json/iconoir": "^1.1.43",
+    "@iconify-json/logos": "^1.1.42"
   }
 }
