@@ -1,4 +1,8 @@
 ---
+title: O software livre e o sentido das liberdades
+titleTemplate: O software livre e o sentido das liberdades
+info: Quer saber por que o software é *livre* e o não-livre é *proprietário*? Bora conversar sobre **liberdade** =D
+author: Luan da Costa Redmann
 theme: dracula
 layout: cover
 transition: fade
